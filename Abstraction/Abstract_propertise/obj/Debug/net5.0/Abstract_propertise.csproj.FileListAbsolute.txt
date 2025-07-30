@@ -1,0 +1,16 @@
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\Abstract_propertise.exe
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\Abstract_propertise.deps.json
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\Abstract_propertise.runtimeconfig.json
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\Abstract_propertise.runtimeconfig.dev.json
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\Abstract_propertise.dll
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\ref\Abstract_propertise.dll
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\bin\Debug\net5.0\Abstract_propertise.pdb
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.csproj.AssemblyReference.cache
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.AssemblyInfoInputs.cache
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.AssemblyInfo.cs
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.csproj.CoreCompileInputs.cache
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.dll
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\ref\Abstract_propertise.dll
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.pdb
+C:\Users\FASHION STUDIO\source\repos\Abstraction\Abstract_propertise\obj\Debug\net5.0\Abstract_propertise.genruntimeconfig.cache

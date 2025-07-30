@@ -1,0 +1,16 @@
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\AccesModifier.exe
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\AccesModifier.deps.json
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\AccesModifier.runtimeconfig.json
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\AccesModifier.runtimeconfig.dev.json
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\AccesModifier.dll
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\ref\AccesModifier.dll
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\bin\Debug\net5.0\AccesModifier.pdb
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.csproj.AssemblyReference.cache
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.AssemblyInfoInputs.cache
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.AssemblyInfo.cs
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.csproj.CoreCompileInputs.cache
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.dll
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\ref\AccesModifier.dll
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.pdb
+C:\Users\FASHION STUDIO\source\repos\AccesModifier\AccesModifier\obj\Debug\net5.0\AccesModifier.genruntimeconfig.cache

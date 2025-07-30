@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FASHION STUDIO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FASHION STUDIO\\.nuget\\packages"
+    ]
+  }
+}
